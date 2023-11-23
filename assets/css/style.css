@@ -127,6 +127,9 @@
 
 a { text-decoration: none; }
 
+b {text-decoration: none;
+    color:  var(--orange-yellow-crayola); }
+
 li { list-style: none; }
 
 img, ion-icon, a, button, time, span { display: block; }
